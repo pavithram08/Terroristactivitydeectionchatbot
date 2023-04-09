@@ -37,7 +37,7 @@ function getPredictions(text) {
             $("#new-res").append(`
       <div class="msg right-msg">
       <div class="msg-img"
-          
+      style="background-image: url(https://cdn-icons-png.flaticon.com/512/163/163847.png)">
       </div>
       <div class="msg-bubble">
           <div class="msg-info">
@@ -52,7 +52,9 @@ function getPredictions(text) {
     </div>
     
     <div class="msg left-msg">
-   
+    <div class="msg-img"
+    style="background-image: url(https://cdn-icons-png.flaticon.com/512/163/163847.png)">
+    
     </div>
     
     <div class="msg-bubble">
